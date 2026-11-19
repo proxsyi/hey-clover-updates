@@ -1,7 +1,14 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version="1.0" standalone="yes"?>
 <rss xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" version="2.0">
     <channel>
         <title>HeyClover</title>
-        <description>Signed public release updates for HeyClover.</description>
+        <item>
+            <title>1.2.0</title>
+            <pubDate>Wed, 18 Nov 2026 18:55:26 -0500</pubDate>
+            <sparkle:version>1</sparkle:version>
+            <sparkle:shortVersionString>1.2.0</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.2</sparkle:minimumSystemVersion>
+            <enclosure url="https://github.com/proxsyi/hey-clover-updates/releases/download/v1.2.0/HeyClover.zip" length="10925791" type="application/octet-stream" sparkle:edSignature="WIPhu23FLE/40U43504Uzi2El1aESI/ZiHaUlVNP8+Bl6840NsRVMGyGhUez+CpjowSXkPlk1QysXtUJCyoeDQ=="/>
+        </item>
     </channel>
 </rss>
