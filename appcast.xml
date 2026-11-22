@@ -3,12 +3,12 @@
     <channel>
         <title>HeyClover</title>
         <item>
-            <title>1.2.14</title>
-            <pubDate>Sun, 22 Nov 2026 07:32:00 -0500</pubDate>
-            <sparkle:version>15</sparkle:version>
-            <sparkle:shortVersionString>1.2.14</sparkle:shortVersionString>
+            <title>1.2.15</title>
+            <pubDate>Sun, 22 Nov 2026 10:27:53 -0500</pubDate>
+            <sparkle:version>16</sparkle:version>
+            <sparkle:shortVersionString>1.2.15</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>14.2</sparkle:minimumSystemVersion>
-            <enclosure url="https://github.com/proxsyi/hey-clover-updates/releases/download/v1.2.14/HeyClover.zip" length="5178823" type="application/octet-stream" sparkle:edSignature="YtV1grDpZFeHJ45xac8A+MpM2gxlkoDT7Zoj8jTJzMNM7odIa3PULhpgnOL2VhjfBj0+8d8wVx776rE0x/xDBg=="/>
+            <enclosure url="https://github.com/proxsyi/hey-clover-updates/releases/download/v1.2.15/HeyClover.zip" length="5259126" type="application/octet-stream" sparkle:edSignature="ZGPU9aDsl1bMxI6iEWBpB0H6TNbkUcrTB1PZI1xF2m2ZbbY4Mdg56oS1hi5R7sR8ufU7Cg/VzREVBmZyUAHUDQ=="/>
         </item>
     </channel>
 </rss>
